@@ -298,3 +298,22 @@ professional support requests please visit [https://ultralytics.com/contact](htt
 
 [assets]: https://github.com/ultralytics/yolov5/releases
 [tta]: https://github.com/ultralytics/yolov5/issues/303
+
+   
+   
+## ************************************RESULTS URBAN DATASET WITH DIFERENTS NEURAL NETWORKS AND HYPERPARAMETERS****************************
+   ![image](https://user-images.githubusercontent.com/54250257/174954023-1c41ca7a-8798-47fe-af89-f01025917e25.png)
+   
+   ![image](https://user-images.githubusercontent.com/54250257/174954111-b6cb82e9-f6b9-446e-a3fd-c4c3a01a9f1e.png)
+   
+   LINK VIDEO OUTPUT HERE
+   
+   ISSUES
+   
+   
+   
+   
+
+   
+   
+   
