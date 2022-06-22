@@ -1,25 +1,26 @@
    
 ## RESULTS URBAN DATASET WITH DIFERENTS NEURAL NETWORKS AND HYPERPARAMETERS
+
+## DATASET DESCRIPTION
+![image](https://user-images.githubusercontent.com/54250257/174955604-c37efdbf-df19-4f7a-a93b-db7f7594757b.png)
+
+## RESULTS URBAN DATASET WITH DIFERENTS NEURAL NETWORKS AND HYPERPARAMETERS
    ![image](https://user-images.githubusercontent.com/54250257/174954023-1c41ca7a-8798-47fe-af89-f01025917e25.png)
    
    ![image](https://user-images.githubusercontent.com/54250257/174954111-b6cb82e9-f6b9-446e-a3fd-c4c3a01a9f1e.png)
+   
+   ![image](https://user-images.githubusercontent.com/54250257/174955917-f12ca298-3626-4282-be0f-77de2b56b718.png)
    
    LINK VIDEO OUTPUT HERE
    
    ISSUES
    
-   
+   THANKS TO @calderonf 
+      --DATASET AVAIBLE HERE
+         --https://github.com/calderonf/sdm_yolo
+         
 
 ## YOLOV5 ULTRALITICS CUSTOM TRAINING "README" START
-
-
-
-
-
-
-
-
-
 
 
 
