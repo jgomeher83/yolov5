@@ -1,0 +1,7 @@
+path: /content/urban-dataset-10
+train: train/images
+val: valid/images
+test: valid/images
+
+nc: 9
+names: ['bus','camion','ciclista','minivan','motociclista','particular','peaton','taxi','tractomula']
