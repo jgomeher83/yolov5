@@ -1,25 +1,38 @@
    
 ## RESULTS URBAN DATASET WITH DIFERENTS NEURAL NETWORKS AND HYPERPARAMETERS
 
+A continuación se presentan los resultados de entrenar [YOLOv5](https://github.com/ultralytics/yolov5) usando  [Urban Dataset](https://github.com/calderonf/sdm_yolo), el cual es un dataset que contiene 9 clases de vehiculos incluyendo peatones con la siguiente distibución de imagenes que se muestran a continuación:
+
 ## DATASET DESCRIPTION
 ![image](https://user-images.githubusercontent.com/54250257/174955604-c37efdbf-df19-4f7a-a93b-db7f7594757b.png)
 
 ## RESULTS URBAN DATASET WITH DIFERENTS NEURAL NETWORKS AND HYPERPARAMETERS
+
+Para estos experimentos se entrenó la red [YOLOv5](https://github.com/ultralytics/yolov5) usando las siguientes combinaciones de hyperparametros en google colab:
+  YOLOV5N6 - img size = 640 - 100 epochs
+  YOLOV5X6 - img size = 640 - 200 epochs
+  YOLOV5M6 - img size = 960 - 300 epochs
+  YOLOV5M6 - img size = 640 - 300 epochs
+  YOLOV5N6 - img size = 1024 - 300 epochs
+
+## LOS RESULTADOS SE MUESTRAN UTILIZANDO TENSORBOARD 
+Los resultados pueden visualizarse en [Google Colab](https://colab.research.google.com/drive/120Wi7-hbGrO9-bXQXhSjmhgmKNY9Pxan?usp=sharing)
+
    ![image](https://user-images.githubusercontent.com/54250257/174954023-1c41ca7a-8798-47fe-af89-f01025917e25.png)
    
    ![image](https://user-images.githubusercontent.com/54250257/174954111-b6cb82e9-f6b9-446e-a3fd-c4c3a01a9f1e.png)
    
    ![image](https://user-images.githubusercontent.com/54250257/174955917-f12ca298-3626-4282-be0f-77de2b56b718.png)
    
-   LINK VIDEO OUTPUT HERE
-   
-   ISSUES
+ 
    
    THANKS TO @calderonf 
       --DATASET AVAIBLE HERE
          --https://github.com/calderonf/sdm_yolo
          
 
+
+## README YOLOV5 ULTRALYTICS
 ## YOLOV5 ULTRALITICS CUSTOM TRAINING "README" START
 
 
